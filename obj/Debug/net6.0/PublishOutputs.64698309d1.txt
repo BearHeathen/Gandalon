@@ -1,0 +1,5 @@
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\publish\VSCodeTest.exe
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\publish\VSCodeTest.dll
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\publish\VSCodeTest.deps.json
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\publish\VSCodeTest.runtimeconfig.json
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\publish\VSCodeTest.pdb

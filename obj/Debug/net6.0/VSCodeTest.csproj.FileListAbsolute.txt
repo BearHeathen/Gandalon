@@ -1,0 +1,16 @@
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\VSCodeTest.exe
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\VSCodeTest.deps.json
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\VSCodeTest.runtimeconfig.json
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\VSCodeTest.dll
+D:\CSharp\VSCodeTest\bin\Debug\net6.0\VSCodeTest.pdb
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.csproj.AssemblyReference.cache
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.AssemblyInfoInputs.cache
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.AssemblyInfo.cs
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.ImplicitNamespaceImports.cs
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.csproj.CoreCompileInputs.cache
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.dll
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\refint\VSCodeTest.dll
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.pdb
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\VSCodeTest.genruntimeconfig.cache
+D:\CSharp\VSCodeTest\obj\Debug\net6.0\ref\VSCodeTest.dll
